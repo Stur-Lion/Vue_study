@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <script src="../dist/vue.js"></script>
+</head>
+<body >
+<div id="app">{{demo}}
+    <div>{{demo2}}</div>
+</div>
+<div id="app-2">
+    <span v-bind:class='messege'></span>
+</div>
+<div id="app-3">
+    <span v-if = "aaa">有没有</span>
+</div>
+<!--for循环-->
+<div id="app-4">
+    <ul>
+        <li v-for="value in todos">{{value.text}}</li>
+    </ul>
+</div>
+<!--事件绑定-->
+<div id="app-5">
+    <span >{{messege}}</span>
+    <button v-on:click='change'>改变</button>
+</div>
+<!--输入框-->
+<div id="app-6">
+    <p>{{messege}}</p>
+    <input type="text" v-model='messege'/>
+</div>
+</body>
+</html>
+<script>
+    var aaa = new Vue({
+        el:'#app',
+        data:{
+            demo:'第一个demo',
+            demo2:"第二个demo"
+        }
+    })
+    console.log(aaa);
+    var bbb = new Vue({
+        el:'#app-2',
+        data:{
+            messege:"另外一种绑定方式"+ new Date()
+        }
+    });
+    var app3 = new Vue({
+        el:'#app-3',
+        data:{
+            aaa:false//为true显示，为false不显示
+        }
+    });
+    var app4 = new Vue({
+        el:"#app-4",
+        data:{
+            todos:[
+                {text:11111},
+                {text:22222},
+                {text:33333}
+            ]
+        }
+    })
+    var app5 = new Vue({
+        el:'#app-5',
+        data:{
+            messege:'第一个'
+        },
+        methods:{
+            change:function(){
+                if(this.messege == '第一个'){
+                    this.messege = "第二个";
+                }else{
+                    this.messege = "第一个";
+                }
+            }
+        }
+    })
+    var app6 = new Vue({
+        el:"#app-6",
+        data:{
+            messege:'大家好'
+        }
+    })
+</script>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <script src="../dist/vue.js"></script>
+    <script src="../dist/jquery-3.1.1.min.js"></script>
+</head>
+<body>
+<div id="app">
+    <p>{{num}}</p>
+    <button @click='add'>add</button>
+    <button onclick='reducebox()'>reduce</button>
+    <button onclick="oncebox()">once</button>
+    <button onclick="offbox()">off</button>
+</div>
+</body>
+</html>
+<script>
+    var app= new Vue({
+        el:'#app',
+        data:{
+            num:1
+        },
+        methods:{
+            add:function(){
+                this.num++
+            }
+        }
+    })
+    app.$on('reduce',function(){
+        this.num--
+    })
+    function reducebox(){
+        app.$emit('reduce')
+    }
+    app.$once('once',function(){
+        this.num=this.num*10
+    })
+    function oncebox(){
+        app.$emit('once')
+    }
+    function offbox(){
+        app.$off('reduce')
+    }
+</script>

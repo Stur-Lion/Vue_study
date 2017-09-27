@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <script src="../dist/vue.js"></script>
+</head>
+<body>
+<div id="app">
+    <p>{{count}}</p>
+    <button onclick="change()">改变</button>
+</div>
+</body>
+<script>
+    var mydata ={
+        count:1
+    }
+    function change(){
+//        mydatda.count++;
+//        app.count++;
+        Vue.set(app,'count',6) // 改编数据的对象（app/mydata）  属性 改变的值
+    }
+    var app = new Vue({
+        el:'#app',
+        data:mydata
+    })
+</script>
+</html>

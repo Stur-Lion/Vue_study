@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <script src="../dist/vue.js"></script>
+    <script src="../dist/jquery-3.1.1.min.js"></script>
+</head>
+<body>
+<div id="app">
+    <p>{{mess}}</p>
+    <button @click='change()'>change</button>
+    <button @click='changeagaine()'>changeagaine</button>
+    <button onclick='app.onadd()'>onadd</button>
+</div>
+</body>
+</html>
+<script>
+    var app=new Vue({
+        el:'#app',
+        data:{
+            mess:123
+        },
+        methods:{
+            change:function(){
+                $('#app p').html('改变了')
+            },
+            changeagaine:function(){
+                $('#app p').html('又改变了')
+            },
+            onadd:function(){
+                $('#app p').html('外部改变')
+            }
+        }
+    })
+</script>

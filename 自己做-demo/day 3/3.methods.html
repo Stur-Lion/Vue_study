@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <script src="../dist/vue.js"></script>
+</head>
+<body>
+<div id="app">
+    <p>{{mess}}</p>
+    <button @click='add(5,$event)'>加一</button> <!--$event(事件对象)-->
+    <p><order @click.native="add(2)"></order></p>
+</div>
+<button onclick="app.add(3)">外部加3</button>
+</body>
+<script>
+    var order= {
+        template:'<button>组件加2</button>'
+    }
+    var app=new Vue({
+        el:'#app',
+        data:{
+            mess:1
+        },
+
+        methods:{
+            add:function(num,a){
+                console.log(a);
+                if(!num==''){
+                    this.mess+=num
+                }else{
+                    this.mess++
+                }
+            }
+        },
+        components:{
+            order:order
+        },
+    })
+</script>
+</html>

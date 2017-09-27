@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <script src="../dist/vue.js"></script>
+</head>
+<body>
+<div id="app">
+    <span>{{messges}}</span>
+    <span>{{aaa}}</span>
+</div>
+</body>
+<script>
+    var app = new Vue({
+        el:"#app",
+        data:{
+            messges:'hello'
+        },
+        computed:{
+            aaa:function(){
+                return this.messges.split('').reverse('').join('');
+            }
+        }
+    })
+</script>
+</html>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <script src="../dist/vue.js"></script>
+</head>
+<body>
+<div id="app">
+    <!--<span>{{messges.split('').reverse().join('')}}</span>-->
+    <span v-bind:class='messges+1'>{{messges}}</span>
+</div>
+<div id="app2">
+    <div>{{messege|fil1|fil2}}</div>
+</div>
+</body>
+<script>
+    var app = new Vue({
+        el:'#app',
+        data:{
+            messges:'55w'
+        }
+    })
+    var app2 = new Vue({
+        el:'#app2',
+        data:{
+            messege:'ccc'
+        },
+        filters:{
+            fil1:function(value){
+                if(value=="aaa"){
+                    return "123"
+                }else{
+                    return "456"
+                }
+            },
+            fil2:function(value){
+                if(value=='ccc'){
+                    return '789'
+                }else{
+                    return '159'
+                }
+            }
+        }
+    })
+</script>
+</html>

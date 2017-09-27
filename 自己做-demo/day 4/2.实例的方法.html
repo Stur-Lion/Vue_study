@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <script src="../dist/vue.js"></script>
+    <script src="../dist/jquery-3.1.1.min.js"></script>
+</head>
+<body>
+<div id="app">
+
+</div>
+<button onclick="destroy()">卸载</button>
+</body>
+</html>
+<script>
+    var appExtend = Vue.extend({
+        template:'<div><p>{{mess}}</p><p>{{demo}}</p><button @click="alert">alert</button></div>',
+        data:function(){
+            return {
+                mess:'12345',
+                demo:'试一试'
+            }
+        },
+        methods:{
+            alert:function(){
+                alert('1')
+            }
+        },
+        destroyed:function(){
+            console.log(111);
+        }
+    })
+    var aaa = new appExtend().$mount('#app');
+    function destroy(){
+        aaa.$destroy()
+    }
+</script>

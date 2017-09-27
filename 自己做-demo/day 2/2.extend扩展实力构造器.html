@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>2.extend扩展实力构造器</title>
+    <script src="../dist/vue.js"></script>
+</head>
+<body>
+<div id="aaa"></div>
+<aaa></aaa>
+
+<div id="Lion"></div>
+<Lion></Lion>
+</body>
+<script>
+    var authorExtend=Vue.extend({
+        template:'<p><a :href="authorURL">{{authorName}}</a></p>',
+        data:function(){
+            return {
+                authorName:'Lion',
+                authorURL:'http://baidu.com'
+            }
+        }
+    })
+    new authorExtend().$mount('aaa')
+    new authorExtend().$mount('#aaa');
+
+
+
+    var Lionextend = Vue.extend({
+        template:'<p><a v-bind:href="LionURL">{{LionName}}</a></p>',
+        data:function(){
+            return {
+                LionName:'跳转',
+                LionURL:'http://hao123.com'
+            }
+        }
+    })
+    new Lionextend().$mount('#Lion')
+    new Lionextend().$mount('Lion')
+</script>
+</html>

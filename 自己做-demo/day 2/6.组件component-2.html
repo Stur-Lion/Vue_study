@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <script src="../dist/vue.js"></script>
+</head>
+<body>
+<div id="app">
+    <lion v-bind:mess="mess"></lion>
+</div>
+
+</body>
+<script>
+    var app = new Vue({
+        el:'#app',
+        data:{
+            mess:'传值'
+        },
+        components:{
+            'lion':{
+                template:'<div>我是12345，你是 {{ mess }} </div>',
+                props:['mess']
+            }
+        }
+    })
+
+</script>
+</html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <script src="../dist/vue.js"></script>
+</head>
+<body>
+<div id="app">
+    <lion></lion>
+</div>
+</body>
+<script>
+    var ynn={
+        template:'<div style="color: green">我是子组件</div>'
+    }
+    var app = new Vue({
+        el:'#app',
+        components:{
+            'lion':{
+                template:'<div style="color: red">我是父组件<ynn></ynn></div> ',
+                components:{
+                    'ynn':ynn
+                }
+            }
+        }
+    })
+</script>
+</html>

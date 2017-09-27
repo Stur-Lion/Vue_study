@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <script src="../dist/vue.js"></script>
+</head>
+<body>
+<div id="app">
+    <!--<div v-bind:here='who'></div>-->
+    <component v-bind:is='who'></component>
+    <button @click='change'>切换</button>
+</div>
+</body>
+<script>
+    var lionA={
+        template:'<div>我是lionA</div> '
+    };
+    var lionB={
+        template:'<div>我是lionB</div> '
+    }
+    var app= new Vue({
+        el:'#app',
+        data:{
+            who:'lionA'
+        },
+        components:{
+            'lionA':lionA,
+            'lionB':lionB
+        },
+        methods:{
+            change:function(){
+                if(this.who=='lionA'){
+                    this.who='lionB'
+                }else if(this.who=='lionB'){
+                    this.who='lionA'
+                }
+            }
+        }
+    })
+</script>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css"/>
+    <script src="sea.js"></script>
+    <script src="bootstrap/bootstrap.js"></script>
+    <script>
+        seajs.config({
+            alias:{
+                jquery:"jquery-1.11.1.js"
+            }
+        });
+        seajs.use('./main.js',function(){
+
+        })
+    </script>
+</head>
+<body>
+<button type="button" id="myButton" data-loading-text="Loading..." class="btn btn-primary" autocomplete="off">
+    Loading state
+</button>
+</body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <script src="../dist/vue.js"></script>
+</head>
+<body>
+<div id="app">
+    <!--<p v-cheng='color'>{{num}}</p>-->
+    <p v-lion='color'>{{num}}</p>
+    <button @click='add'>加一</button>
+</div>
+<p>20</p>
+</body>
+<script>
+//    Vue.directive('cheng',{//五个状态
+//        bind:function(){
+//            console.log('1-bind');
+//        },
+//        inserted:function(){
+//            console.log('2-inserted');
+//        },
+//        update:function(){
+//            console.log('3-update');
+//        },
+//        componentUpdated:function(){
+//            console.log('4-compoentUpdated');
+//        }
+//    })
+    Vue.directive('lion',function(el,binding){
+        console.log(el);
+        console.log(binding);
+        el.style.color=binding.value
+    })
+var app= new Vue({
+    el:'#app',
+    data:{
+        num:10,
+        color:'red'
+    },
+    methods:{
+        add:function(){
+            this.num++
+        }
+    }
+})
+</script>
+</html>

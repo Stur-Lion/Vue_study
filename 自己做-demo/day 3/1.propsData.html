@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <script src="../dist/vue.js"></script>
+</head>
+<body>
+<div id="app"></div>
+</body>
+<script>
+    var order = Vue.extend({
+        template:'<div><p>{{mess}}</p><p>{{aaa}}</p></div>',
+        data:function(){
+            return {
+                mess:'我是一个扩展'
+            }
+        },
+        props:['aaa']
+    })
+    new order({propsData:{aaa:123456}}).$mount('#app')
+</script>
+</html>

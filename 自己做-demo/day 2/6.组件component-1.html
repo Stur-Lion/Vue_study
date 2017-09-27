@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <script src="../dist/vue.js"></script>
+</head>
+<body>
+<div id="app">
+    <Lion></Lion>
+    <ynn></ynn>
+</div>
+<div id="app2">
+    <liona></liona>
+    <ynn2></ynn2>
+</div>
+</body>
+<script>
+    //全局组件
+    Vue.component('Lion',{
+        template:'<div style="color: red"><div>全剧组件1</div><div>全剧组件1</div></div>'
+    })
+    Vue.component('ynn',{
+        template:'<div style="color: red"><div>全剧组件2</div><div>全剧组件2</div></div>'
+    })
+    var app = new Vue({
+        el:'#app',
+    })
+    //局部组建
+    var app2 = new Vue({
+        el:'#app2',
+        components:{
+            'liona':{
+                template:'<div style="color: green;">局部组建</div>'
+            },
+            'ynn2':{
+                template:'<div style="color: green;">局部组建2</div>'
+            }
+        }
+    })
+</script>
+</html>
