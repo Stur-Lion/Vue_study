@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d797770a-5b4e-40f7-b8e3-9bac8e6d06d8" name="Default" comment="">
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\VueDemo-master\assets\js\jquery-3.1.1.min.js" afterPath="$PROJECT_DIR$/demo/VueDemo-master/assets/js/jquery-3.1.1.min.js" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\VueDemo-master\assets\js\vue.js" afterPath="$PROJECT_DIR$/demo/VueDemo-master/assets/js/vue.js" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\VueDemo-master\assets\js\vue.min.js" afterPath="$PROJECT_DIR$/demo/VueDemo-master/assets/js/vue.min.js" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\VueDemo-master\example\1.helloworld.html" afterPath="$PROJECT_DIR$/demo/VueDemo-master/example/1.helloworld.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\VueDemo-master\example\10.vue.extend.html" afterPath="$PROJECT_DIR$/demo/VueDemo-master/example/10.vue.extend.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\VueDemo-master\example\11.vue.set.html" afterPath="$PROJECT_DIR$/demo/VueDemo-master/example/11.vue.set.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\VueDemo-master\example\12.shengmingzhouqi.html" afterPath="$PROJECT_DIR$/demo/VueDemo-master/example/12.shengmingzhouqi.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\VueDemo-master\example\13.template.html" afterPath="$PROJECT_DIR$/demo/VueDemo-master/example/13.template.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\VueDemo-master\example\14.component-1.html" afterPath="$PROJECT_DIR$/demo/VueDemo-master/example/14.component-1.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\VueDemo-master\example\15.component-2.html" afterPath="$PROJECT_DIR$/demo/VueDemo-master/example/15.component-2.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\VueDemo-master\example\16.component-3.html" afterPath="$PROJECT_DIR$/demo/VueDemo-master/example/16.component-3.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\VueDemo-master\example\17.component-4.html" afterPath="$PROJECT_DIR$/demo/VueDemo-master/example/17.component-4.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\VueDemo-master\example\18.propsdata.html" afterPath="$PROJECT_DIR$/demo/VueDemo-master/example/18.propsdata.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\VueDemo-master\example\19.computed.html" afterPath="$PROJECT_DIR$/demo/VueDemo-master/example/19.computed.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\VueDemo-master\example\2.v-if.html" afterPath="$PROJECT_DIR$/demo/VueDemo-master/example/2.v-if.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\VueDemo-master\example\20.methods.html" afterPath="$PROJECT_DIR$/demo/VueDemo-master/example/20.methods.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\VueDemo-master\example\21.watch.html" afterPath="$PROJECT_DIR$/demo/VueDemo-master/example/21.watch.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\VueDemo-master\example\22.mixins.html" afterPath="$PROJECT_DIR$/demo/VueDemo-master/example/22.mixins.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\VueDemo-master\example\23.extends.html" afterPath="$PROJECT_DIR$/demo/VueDemo-master/example/23.extends.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\VueDemo-master\example\3.v-for.html" afterPath="$PROJECT_DIR$/demo/VueDemo-master/example/3.v-for.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\VueDemo-master\example\4.v-text.html" afterPath="$PROJECT_DIR$/demo/VueDemo-master/example/4.v-text.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\VueDemo-master\example\5.v-on.html" afterPath="$PROJECT_DIR$/demo/VueDemo-master/example/5.v-on.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\VueDemo-master\example\6.v-model.html" afterPath="$PROJECT_DIR$/demo/VueDemo-master/example/6.v-model.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\VueDemo-master\example\7.v-bind.html" afterPath="$PROJECT_DIR$/demo/VueDemo-master/example/7.v-bind.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\VueDemo-master\example\8.others.html" afterPath="$PROJECT_DIR$/demo/VueDemo-master/example/8.others.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\VueDemo-master\example\9.vue.directive.html" afterPath="$PROJECT_DIR$/demo/VueDemo-master/example/9.vue.directive.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\VueDemo-master\example\examples1.html" afterPath="$PROJECT_DIR$/demo/VueDemo-master/example/examples1.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\VueDemo-master\example\examples2.html" afterPath="$PROJECT_DIR$/demo/VueDemo-master/example/examples2.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\VueDemo-master\example\examples3.html" afterPath="$PROJECT_DIR$/demo/VueDemo-master/example/examples3.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\VueDemo-master\example\otherOption.html" afterPath="$PROJECT_DIR$/demo/VueDemo-master/example/otherOption.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\VueDemo-master\example\solt.html" afterPath="$PROJECT_DIR$/demo/VueDemo-master/example/solt.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\VueDemo-master\example\vue-resource.html" afterPath="$PROJECT_DIR$/demo/VueDemo-master/example/vue-resource.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\VueDemo-master\index.html" afterPath="$PROJECT_DIR$/demo/VueDemo-master/index.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\VueDemo-master\package.json" afterPath="$PROJECT_DIR$/demo/VueDemo-master/package.json" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\day 1\1基本指令.html" afterPath="$PROJECT_DIR$/demo/day 1/1基本指令.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\day 1\2组件.html" afterPath="$PROJECT_DIR$/demo/day 1/2组件.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\day 1\3表达式.html" afterPath="$PROJECT_DIR$/demo/day 1/3表达式.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\day 1\4.计算属性.html" afterPath="$PROJECT_DIR$/demo/day 1/4.计算属性.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\day 2\1.directive自定义指令.html" afterPath="$PROJECT_DIR$/demo/day 2/1.directive自定义指令.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\day 2\2.extend扩展实力构造器.html" afterPath="$PROJECT_DIR$/demo/day 2/2.extend扩展实力构造器.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\day 2\3.set全局操作.html" afterPath="$PROJECT_DIR$/demo/day 2/3.set全局操作.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\day 2\4.钩子函数.html" afterPath="$PROJECT_DIR$/demo/day 2/4.钩子函数.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\day 2\5.template模板制作.html" afterPath="$PROJECT_DIR$/demo/day 2/5.template模板制作.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\day 2\6.组件component-1.html" afterPath="$PROJECT_DIR$/demo/day 2/6.组件component-1.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\day 2\6.组件component-2.html" afterPath="$PROJECT_DIR$/demo/day 2/6.组件component-2.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\day 2\6.组件component-3.html" afterPath="$PROJECT_DIR$/demo/day 2/6.组件component-3.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\day 2\6.组件component-4.html" afterPath="$PROJECT_DIR$/demo/day 2/6.组件component-4.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\day 3\1.propsData.html" afterPath="$PROJECT_DIR$/demo/day 3/1.propsData.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\day 3\2.computed.html" afterPath="$PROJECT_DIR$/demo/day 3/2.computed.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\day 3\3.methods.html" afterPath="$PROJECT_DIR$/demo/day 3/3.methods.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\day 3\4.$watch监听.html" afterPath="$PROJECT_DIR$/demo/day 3/4.$watch监听.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\day 3\5.mixins.html" afterPath="$PROJECT_DIR$/demo/day 3/5.mixins.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\day 3\6.extend扩展.html" afterPath="$PROJECT_DIR$/demo/day 3/6.extend扩展.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\day 4\1.实例和内置组件.html" afterPath="$PROJECT_DIR$/demo/day 4/1.实例和内置组件.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\day 4\2.实例的方法.html" afterPath="$PROJECT_DIR$/demo/day 4/2.实例的方法.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\day 4\3.实例事件.html" afterPath="$PROJECT_DIR$/demo/day 4/3.实例事件.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\day 4\4.内置组件slot.html" afterPath="$PROJECT_DIR$/demo/day 4/4.内置组件slot.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\dist\README.md" afterPath="$PROJECT_DIR$/demo/dist/README.md" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\dist\jquery-3.1.1.min.js" afterPath="$PROJECT_DIR$/demo/dist/jquery-3.1.1.min.js" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\dist\vue.common.js" afterPath="$PROJECT_DIR$/demo/dist/vue.common.js" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\dist\vue.esm.js" afterPath="$PROJECT_DIR$/demo/dist/vue.esm.js" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\dist\vue.js" afterPath="$PROJECT_DIR$/demo/dist/vue.js" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\dist\vue.min.js" afterPath="$PROJECT_DIR$/demo/dist/vue.min.js" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\dist\vue.runtime.common.js" afterPath="$PROJECT_DIR$/demo/dist/vue.runtime.common.js" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\dist\vue.runtime.esm.js" afterPath="$PROJECT_DIR$/demo/dist/vue.runtime.esm.js" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\dist\vue.runtime.js" afterPath="$PROJECT_DIR$/demo/dist/vue.runtime.js" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\dist\vue.runtime.min.js" afterPath="$PROJECT_DIR$/demo/dist/vue.runtime.min.js" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\sea.js\1.html" afterPath="$PROJECT_DIR$/demo/sea.js/1.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\sea.js\2.html" afterPath="$PROJECT_DIR$/demo/sea.js/2.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\sea.js\bootstrap\bootstrap.css" afterPath="$PROJECT_DIR$/demo/sea.js/bootstrap/bootstrap.css" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\sea.js\bootstrap\bootstrap.js" afterPath="$PROJECT_DIR$/demo/sea.js/bootstrap/bootstrap.js" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\sea.js\demo\count.js" afterPath="$PROJECT_DIR$/demo/sea.js/demo/count.js" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\sea.js\demo\index.css" afterPath="$PROJECT_DIR$/demo/sea.js/demo/index.css" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\sea.js\demo\index.html" afterPath="$PROJECT_DIR$/demo/sea.js/demo/index.html" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\sea.js\demo\jquery-1.11.1.js" afterPath="$PROJECT_DIR$/demo/sea.js/demo/jquery-1.11.1.js" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\sea.js\demo\main.js" afterPath="$PROJECT_DIR$/demo/sea.js/demo/main.js" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\sea.js\demo\tab.js" afterPath="$PROJECT_DIR$/demo/sea.js/demo/tab.js" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\sea.js\jquery-1.11.1.js" afterPath="$PROJECT_DIR$/demo/sea.js/jquery-1.11.1.js" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\sea.js\jquery.js" afterPath="$PROJECT_DIR$/demo/sea.js/jquery.js" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\sea.js\main.js" afterPath="$PROJECT_DIR$/demo/sea.js/main.js" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\sea.js\main2.js" afterPath="$PROJECT_DIR$/demo/sea.js/main2.js" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\sea.js\module-1.js" afterPath="$PROJECT_DIR$/demo/sea.js/module-1.js" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\sea.js\module-2.js" afterPath="$PROJECT_DIR$/demo/sea.js/module-2.js" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\sea.js\module-3.js" afterPath="$PROJECT_DIR$/demo/sea.js/module-3.js" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\sea.js\module-4.js" afterPath="$PROJECT_DIR$/demo/sea.js/module-4.js" />
+      <change type="MOVED" beforePath="E:\vueStudy\自己做-demo\sea.js\sea.js" afterPath="$PROJECT_DIR$/demo/sea.js/sea.js" />
+    </list>
+    <ignored path="vueStudy.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="vueStudy" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="添加" />
+    <OptionsSetting value="true" id="移除" />
+    <OptionsSetting value="true" id="签出" />
+    <OptionsSetting value="true" id="更新" />
+    <OptionsSetting value="true" id="状态" />
+    <OptionsSetting value="true" id="编辑" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vueStudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vueStudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vueStudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="configurable.group.appearance" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d797770a-5b4e-40f7-b8e3-9bac8e6d06d8" name="Default" comment="" />
+      <created>1506666656946</created>
+      <option name="number" value="Default" />
+      <updated>1506666656946</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15271196" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
