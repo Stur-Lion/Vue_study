@@ -1,6 +1,8 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+    <h2>{{ $route.params.username }}</h2>
+    <h2>{{ $route.params.id }}</h2>
   </div>
 </template>
 
@@ -9,7 +11,7 @@ export default {
   name: 'hello',
   data () {
     return {
-      msg: 'Welcome to Your Vue.js App'
+      msg: 'Welcome to Your hi1 demo'
     }
   }
 }

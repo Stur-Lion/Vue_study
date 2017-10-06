@@ -1,10 +1,11 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+    <router-view></router-view>
   </div>
 </template>
 
-<script>
+<script type="text/ecmascript-6">
 export default {
   name: 'hello',
   data () {

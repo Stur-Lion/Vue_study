@@ -2,9 +2,12 @@
   <div id="app">
     <img src="./assets/logo.png">
     <div>
-      <router-link to='/'>hello</router-link>
-      <router-link to='/hi'>hi</router-link>
+      <router-link to='/'>hello</router-link>&nbsp;
+      <router-link to='/hi'>hi</router-link>&nbsp;
+      <router-link :to="{name:'hi1',params:{username:'lion',id:'ynn'}}">hi1</router-link>&nbsp;
+      <router-link to='/hi/hi2'>hi2</router-link>
     </div>
+    <h2>{{ $route.name }}</h2>
     <router-view></router-view>
   </div>
 </template>
