@@ -11,5 +11,11 @@
     <file url="file://$PROJECT_DIR$/demo/day 5(router)/demo/src/components/right.vue" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo/day 5(router)/demo/src/router/index.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo/day 6(Vuex)/demo/src/components/lion.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/day 6(Vuex)/demo/vuex/store.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/day 6(Vuex)/vuex/src/App.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/day 6(Vuex)/vuex/src/components/HelloWorld.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/day 6(Vuex)/vuex/src/components/vuex.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/day 6(Vuex)/vuex/src/router/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo/day 6(Vuex)/vuex/src/vuex/store.js" charset="UTF-8" />
   </component>
 </project>

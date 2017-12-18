@@ -1,47 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d797770a-5b4e-40f7-b8e3-9bac8e6d06d8" name="Default" comment="11">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/demo/static/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/demo/build/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/demo/src/assets/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/demo/.babelrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/demo/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/demo/.eslintignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/demo/.eslintrc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/demo/test/unit/.eslintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/demo/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/demo/.postcssrc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/demo/src/App.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/demo/test/unit/specs/HelloWorld.spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/demo/src/components/HelloWorld.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/demo/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/demo/build/build.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/demo/build/check-versions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/demo/config/dev.env.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/demo/test/e2e/custom-assertions/elementCount.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/demo/config/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/demo/src/router/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/demo/test/unit/jest.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/demo/src/components/lion.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/demo/src/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/demo/test/e2e/nightwatch.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/demo/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/demo/config/prod.env.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/demo/test/e2e/runner.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/demo/test/unit/setup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/demo/src/vuex/store.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/demo/config/test.env.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/demo/test/e2e/specs/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/demo/build/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/demo/build/vue-loader.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/demo/build/webpack.base.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/demo/build/webpack.dev.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/demo/build/webpack.prod.conf.js" />
-      <change type="DELETED" beforePath="D:\myProject\vueStudy\.vs\ProjectSettings.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\myProject\vueStudy\.vs\slnx.sqlite" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/day 5 (cli)/demo2/src/components/HelloWorld.vue" afterPath="$PROJECT_DIR$/demo/day 5 (cli)/demo2/src/components/HelloWorld.vue" />
+    <list default="true" id="d797770a-5b4e-40f7-b8e3-9bac8e6d06d8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/static/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/build/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/src/assets/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/.babelrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/.eslintignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/.eslintrc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/test/unit/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/.postcssrc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/src/App.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/test/unit/specs/HelloWorld.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/src/components/HelloWorld.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/build/build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/build/check-versions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/config/dev.env.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/test/e2e/custom-assertions/elementCount.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/config/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/src/router/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/test/unit/jest.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/src/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/test/e2e/nightwatch.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/config/prod.env.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/test/e2e/runner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/test/unit/setup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/src/vuex/store.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/config/test.env.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/test/e2e/specs/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/build/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/build/vue-loader.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/src/components/vuex.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/build/webpack.base.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/build/webpack.dev.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/build/webpack.prod.conf.js" />
+      <change type="DELETED" beforePath="D:\myProject\vueStudy\demo\day 6(Vuex)\demo\.babelrc" afterPath="" />
+      <change type="DELETED" beforePath="D:\myProject\vueStudy\demo\day 6(Vuex)\demo\.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="D:\myProject\vueStudy\demo\day 6(Vuex)\demo\.eslintignore" afterPath="" />
+      <change type="DELETED" beforePath="D:\myProject\vueStudy\demo\day 6(Vuex)\demo\.eslintrc.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\myProject\vueStudy\demo\day 6(Vuex)\demo\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="D:\myProject\vueStudy\demo\day 6(Vuex)\demo\.postcssrc.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\myProject\vueStudy\demo\day 6(Vuex)\demo\README.md" afterPath="" />
+      <change type="DELETED" beforePath="D:\myProject\vueStudy\demo\day 6(Vuex)\demo\build\build.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\myProject\vueStudy\demo\day 6(Vuex)\demo\build\check-versions.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\myProject\vueStudy\demo\day 6(Vuex)\demo\build\logo.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\myProject\vueStudy\demo\day 6(Vuex)\demo\build\utils.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\myProject\vueStudy\demo\day 6(Vuex)\demo\build\vue-loader.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\myProject\vueStudy\demo\day 6(Vuex)\demo\build\webpack.base.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\myProject\vueStudy\demo\day 6(Vuex)\demo\build\webpack.dev.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\myProject\vueStudy\demo\day 6(Vuex)\demo\build\webpack.prod.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\myProject\vueStudy\demo\day 6(Vuex)\demo\config\dev.env.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\myProject\vueStudy\demo\day 6(Vuex)\demo\config\index.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\myProject\vueStudy\demo\day 6(Vuex)\demo\config\prod.env.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\myProject\vueStudy\demo\day 6(Vuex)\demo\config\test.env.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\myProject\vueStudy\demo\day 6(Vuex)\demo\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\myProject\vueStudy\demo\day 6(Vuex)\demo\package.json" afterPath="" />
+      <change type="DELETED" beforePath="D:\myProject\vueStudy\demo\day 6(Vuex)\demo\src\App.vue" afterPath="" />
+      <change type="DELETED" beforePath="D:\myProject\vueStudy\demo\day 6(Vuex)\demo\src\assets\logo.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\myProject\vueStudy\demo\day 6(Vuex)\demo\src\components\HelloWorld.vue" afterPath="" />
+      <change type="DELETED" beforePath="D:\myProject\vueStudy\demo\day 6(Vuex)\demo\src\components\lion.vue" afterPath="" />
+      <change type="DELETED" beforePath="D:\myProject\vueStudy\demo\day 6(Vuex)\demo\src\main.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\myProject\vueStudy\demo\day 6(Vuex)\demo\src\router\index.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\myProject\vueStudy\demo\day 6(Vuex)\demo\src\vuex\store.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\myProject\vueStudy\demo\day 6(Vuex)\demo\static\.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="D:\myProject\vueStudy\demo\day 6(Vuex)\demo\test\e2e\custom-assertions\elementCount.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\myProject\vueStudy\demo\day 6(Vuex)\demo\test\e2e\nightwatch.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\myProject\vueStudy\demo\day 6(Vuex)\demo\test\e2e\runner.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\myProject\vueStudy\demo\day 6(Vuex)\demo\test\e2e\specs\test.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\myProject\vueStudy\demo\day 6(Vuex)\demo\test\unit\.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="D:\myProject\vueStudy\demo\day 6(Vuex)\demo\test\unit\jest.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\myProject\vueStudy\demo\day 6(Vuex)\demo\test\unit\setup.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\myProject\vueStudy\demo\day 6(Vuex)\demo\test\unit\specs\HelloWorld.spec.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -63,27 +97,25 @@
     <favorites_list name="vueStudy" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.29169193">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
-          <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/demo/day 6(Vuex)/demo/src/router/index.js">
+          <file leaf-file-name="HelloWorld.vue" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/demo/day 6(Vuex)/vuex/src/components/HelloWorld.vue">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.14650388">
-                  <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+                <state vertical-scroll-proportion="0.32873562">
+                  <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/demo/day 6(Vuex)/demo/src/main.js">
+          <file leaf-file-name="vuex.vue" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/demo/day 6(Vuex)/vuex/src/components/vuex.vue">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0">
-                  <caret line="3" column="10" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="10" />
-                  <folding>
-                    <element signature="n#!!doc" expanded="true" />
-                  </folding>
+                <state vertical-scroll-proportion="-3.0344827">
+                  <caret line="4" column="36" selection-start-line="3" selection-start-column="28" selection-end-line="4" selection-end-column="36" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -91,48 +123,37 @@
         </leaf>
       </split-first>
       <split-second>
-        <splitter split-orientation="horizontal" split-proportion="0.4952049">
-          <split-first>
-            <leaf>
-              <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/demo/day 6(Vuex)/demo/index.html">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state vertical-scroll-proportion="0.17660551">
-                      <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-                      <folding />
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-            </leaf>
-          </split-first>
-          <split-second>
-            <leaf>
-              <file leaf-file-name="lion.vue" pinned="false" current-in-tab="false">
-                <entry file="file://$PROJECT_DIR$/demo/day 6(Vuex)/demo/src/components/lion.vue">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state vertical-scroll-proportion="0.0">
-                      <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-                      <folding />
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-              <file leaf-file-name="App.vue" pinned="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/demo/day 6(Vuex)/demo/src/App.vue">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state vertical-scroll-proportion="0.5045872">
-                      <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-                      <folding />
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-            </leaf>
-          </split-second>
-        </splitter>
+        <leaf>
+          <file leaf-file-name="store.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/demo/day 6(Vuex)/vuex/src/vuex/store.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.4160178">
+                  <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/demo/day 6(Vuex)/vuex/src/router/index.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="10" column="23" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="23" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
       </split-second>
     </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -147,6 +168,13 @@
         <option value="$PROJECT_DIR$/demo/day 5(router)/demo/src/App.vue" />
         <option value="$PROJECT_DIR$/demo/day 5(router)/demo/src/components/hi1.vue" />
         <option value="$PROJECT_DIR$/demo/day 6(Vuex)/demo/src/components/lion.vue" />
+        <option value="$PROJECT_DIR$/demo/day 6(Vuex)/demo/vuex/store.js" />
+        <option value="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/src/App.vue" />
+        <option value="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/vuex/store.js" />
+        <option value="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/src/router/index.js" />
+        <option value="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/src/components/vuex.vue" />
+        <option value="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/src/vuex/store.js" />
+        <option value="$PROJECT_DIR$/demo/day 6(Vuex)/vuex/src/components/HelloWorld.vue" />
       </list>
     </option>
   </component>
@@ -208,7 +236,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -242,8 +269,147 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vueStudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vueStudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day 6(Vuex)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vuex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vueStudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vueStudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day 6(Vuex)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vuex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vueStudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vueStudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day 6(Vuex)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vuex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vuex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vueStudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vueStudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day 6(Vuex)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vuex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="router" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vueStudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vueStudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="day 6(Vuex)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vuex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -265,7 +431,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\myProject\vueStudy\demo\day 6(Vuex)\vuex\src\components" />
       <recent name="E:\Vuestudy\demo\day 5(router)\demo\src\components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\myProject\vueStudy\demo\day 6(Vuex)\vuex\src" />
     </key>
   </component>
   <component name="RunManager">
@@ -331,31 +501,37 @@
       <option name="project" value="LOCAL" />
       <updated>1507099490219</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="代码提交">
+      <created>1513571311396</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1513571311396</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13164824" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15903106" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -371,62 +547,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="11" />
-    <option name="LAST_COMMIT_MESSAGE" value="11" />
+    <MESSAGE value="代码提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="代码提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo/day 6(Vuex)/demo/src/router/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/day 6(Vuex)/demo/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="10" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="10" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/day 6(Vuex)/demo/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/day 6(Vuex)/demo/src/components/lion.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/day 6(Vuex)/demo/src/App.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/day 5(router)/demo/src/router/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo/day 5(router)/demo/src/App.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -595,13 +723,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/day 5 (cli)/demo2/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09766926">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo/day 5(router)/demo/src/components/Hello.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.24311927">
@@ -630,31 +751,129 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/day 6(Vuex)/demo/.babelrc">
+    <entry file="file://$PROJECT_DIR$/demo/day 5 (cli)/demo2/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/day 6(Vuex)/demo/build/build.js">
+    <entry file="file://$PROJECT_DIR$/demo/day 5 (cli)/demo2/build/webpack.base.conf.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.24528302">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/day 6(Vuex)/demo/src/components/lion.vue">
+    <entry file="file://$PROJECT_DIR$/demo/day 5 (cli)/demo2/build/utils.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day 5 (cli)/demo2/build/check-versions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day 5 (cli)/demo2/build/webpack.prod.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day 5 (cli)/demo2/build/vue-loader.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day 5 (cli)/demo2/.eslintrc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day 5 (cli)/demo2/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day 5 (cli)/demo2/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day 5 (cli)/demo2/build/build.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day 5 (cli)/demo2/build/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day 5 (cli)/demo2/build/webpack.dev.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day 5 (cli)/demo2/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20229885">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day 5 (cli)/demo2/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day 6(Vuex)/vuex/build/build.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.15016685">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/day 6(Vuex)/demo/src/main.js">
+    <entry file="file://$PROJECT_DIR$/demo/day 6(Vuex)/vuex/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day 6(Vuex)/vuex/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12643678">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day 6(Vuex)/vuex/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07341491">
           <caret line="3" column="10" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="10" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -662,26 +881,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/day 6(Vuex)/demo/src/App.vue">
+    <entry file="file://$PROJECT_DIR$/demo/day 6(Vuex)/vuex/src/router/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5045872">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/day 6(Vuex)/demo/src/router/index.js">
+    <entry file="file://$PROJECT_DIR$/demo/day 6(Vuex)/vuex/src/components/vuex.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14650388">
-          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        <state vertical-scroll-proportion="-3.0344827">
+          <caret line="4" column="36" selection-start-line="3" selection-start-column="28" selection-end-line="4" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/day 6(Vuex)/demo/index.html">
+    <entry file="file://$PROJECT_DIR$/demo/day 6(Vuex)/vuex/src/vuex/store.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17660551">
-          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.4160178">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/day 6(Vuex)/vuex/src/components/HelloWorld.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32873562">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
           <folding />
         </state>
       </provider>
